@@ -60,7 +60,7 @@ collab-doc/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/collab-doc.git
+git clone https://github.com/Sankritya14/collab-doc.git
 cd collab-doc
 ```
 
